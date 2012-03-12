@@ -1,0 +1,6 @@
+{<img src="https://secure.travis-ci.org/romeuhcf/subdomain.png?branch=master" alt="Build Status" />}[http://travis-ci.org/romeuhcf/subdomain]
+
+
+= Subdomain
+
+This project rocks and uses MIT-LICENSE.
